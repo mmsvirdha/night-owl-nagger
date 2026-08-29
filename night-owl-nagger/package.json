@@ -1,0 +1,14 @@
+{
+  "name": "night-owl-nagger",
+  "version": "1.0.0",
+  "description": "A cheeky desktop owl that nags you to stop coding late at night",
+  "main": "main.js",
+  "author": "You",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^31.0.0"
+  }
+}
