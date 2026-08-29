@@ -1,4 +1,4 @@
-# Create .gitignore file
+# .gitignore file
 echo "node_modules/
 dist/
 .DS_Store
